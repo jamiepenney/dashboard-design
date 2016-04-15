@@ -1,0 +1,27 @@
+.avatar {
+  display: block;
+  margin: 0 auto;
+}
+
+.avatar--margin-top {
+  margin-top: 8px;
+}
+
+.avatar--white {
+  background: white;
+}
+
+.avatar--64 {
+  width: 64px;
+  height: 64px;
+  border-radius: 32px;
+}
+
+.avatar__image {
+  width: 100%;
+  height: 100%;
+}
+
+.avatar__image--64 {
+
+}

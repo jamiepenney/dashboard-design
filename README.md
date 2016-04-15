@@ -8,4 +8,4 @@ You can build the css by running `gulp sass`, or just `gulp` if you want to watc
 
 Run `http-server` in the root directory to start the server.
 
-Open http://localhost:8080 in your browser and bask in my amazing copycat front end skills.
+Open [http://localhost:8080](http://localhost:8080) in your browser and bask in my amazing copycat front end skills.

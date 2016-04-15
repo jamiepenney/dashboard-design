@@ -1,0 +1,18 @@
+.layout {
+
+}
+
+.layout--sidebar {
+  margin-left: 80px;
+}
+
+.layout-sidebar {
+  width: 80px;
+  position: fixed;
+  left: 0;
+  height: 100%
+}
+
+.layout-sidebar--dark {
+  background: $dark-grey;
+}

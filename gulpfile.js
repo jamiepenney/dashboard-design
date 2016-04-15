@@ -7,10 +7,6 @@ var autoprefixerOptions = {
   browsers: ['last 2 versions', '> 5%', 'Firefox ESR']
 };
 
-var sassdocOptions = {
-  dest: './sassdoc'
-};
-
 var sass = require('gulp-sass');
 gulp.task('sass', function () {
   gulp.src('./sass/main.scss')

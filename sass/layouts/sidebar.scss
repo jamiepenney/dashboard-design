@@ -3,16 +3,16 @@
 }
 
 .layout--sidebar {
-  margin-left: 80px;
+  padding-left: 80px;
 }
 
-.layout-sidebar {
+.layout__sidebar {
   width: 80px;
   position: fixed;
   left: 0;
   height: 100%
 }
 
-.layout-sidebar--dark {
+.layout__sidebar--dark {
   background: $dark-grey;
 }

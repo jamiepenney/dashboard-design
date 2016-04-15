@@ -1,0 +1,44 @@
+.sidebar-menu {
+
+}
+
+.sidebar-menu--padding {
+  padding-top: 24px;
+}
+
+.sidebar-menu__item {
+  margin: 0 auto;
+}
+
+.sidebar-menu__item--padding {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.sidebar-menu__item--80 {
+  width: 80px;
+}
+
+.sidebar-menu__item--active {
+  color: $active-menu-item-colour;
+  background: $darker-grey
+}
+
+.sidebar-menu-item {
+  display: block;
+  color: $light-grey;
+  text-decoration: none;
+}
+
+.sidebar-menu-item--32 {
+  font-size: 32px;
+  margin: 0 auto;
+  width: 32px;
+}
+
+.sidebar-menu-item__label {
+  color: $light-grey;
+  font-size: 12px;
+  padding-top: 8px;
+  display: block;
+}

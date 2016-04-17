@@ -1,12 +1,15 @@
-// Reset
+// CSS Reset
 @import 'common/reset.scss';
 
-// Colours
+// Common
 @import 'common/colours.scss';
+@import 'common/common.scss';
 
 // Layouts
 @import 'layouts/sidebar.scss';
+@import 'layouts/page.scss';
 
 // Components
 @import 'components/avatar.scss';
 @import 'components/sidebar-menu.scss';
+@import 'components/portfolio.scss';
